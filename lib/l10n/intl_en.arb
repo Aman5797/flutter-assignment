@@ -1,0 +1,20 @@
+{
+    "abv":"ABV",
+    "attentionLevel":"ATTENTION LEVEL",
+    "back":"back",
+    "facebook":"Facebook",
+    "firstBrewed":"First Brewed",
+    "ebc":"EBC",
+    "google":"Google",
+    "ibu":"IBU",
+    "linkedIn":"LinkedIn",
+    "ph":"PH",
+    "signInWith":"Sign in with",
+    "somethingWentWrong":"Something went wrong!!!",
+    "srm":"SRM",
+    "targetFg":"TARGET FG",
+    "targetOg":"TARGET OG",
+    "timeToCheers":"Time to Cheers! Choose your beer...",
+    "noInternetMessage":"Please connect to internet!!!",
+    "tryAgain":"Try again..."
+}
